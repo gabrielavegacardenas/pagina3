@@ -1,0 +1,529 @@
+/* Temas del segundo período*/
+
+.texto{
+    font-size: 31px;
+    padding: 120px;
+        text-align: center;
+        color: rgb(87, 29, 62);
+     font-family: cursive;
+
+         
+    }
+    body{
+        background-image: url(fondos.jpg3.jpeg);
+       
+    
+    }
+    .titulo{
+    font-size: 70px;
+    color: rgb(87,29,62);
+    text-align: center;
+    font-family: cursive;
+    
+    }
+    
+    
+    .titulo{
+    font-size: 50px;
+    
+    }
+    
+    .img1{
+    height: 389px;
+    width: 500px;
+    background-image: url(imag.jpeg);
+    float: left;
+    background-repeat: no-repeat;
+    }
+    
+    .img2{
+        height: 389px;
+        width: 500px;
+        background-image: url(.imag2.jpeg);
+        float: right;
+        background-repeat: no-repeat;
+        }
+    
+        .img3{ 
+            height: 689px;
+            width: 500px;
+            background-image: url(img3.png);
+            float: left;
+            background-repeat: no-repeat;
+            }
+        
+    
+        .img4{
+            height: 689px;
+            width: 500px;
+          background-image: url(img4\ \(2\).png);
+            float:right;
+            background-repeat: no-repeat;
+            }
+        
+            .img5{
+                height: 489px;
+                width: 500px;
+              background-image: url(img5.png);
+              float:unset;
+                background-repeat: no-repeat;
+                }
+            
+                .img6{ height: 489px;
+                    width: 500px;
+                  background-image: url(img6.png);
+                  float: initial;
+                    background-repeat: no-repeat;
+                    }
+                
+
+                    .img7{ height: 789px;
+                        width: 900px;
+                      background-image: url(img7.png);
+                      float: initial;
+                        background-repeat: no-repeat;
+                        }
+
+                        .img8{ height: 789px;
+                            width: 900px;
+                          background-image: url(img8.png);
+                          float: initial;
+                            background-repeat: no-repeat;
+                            }
+
+                            .img9{ height: 789px;
+                                width: 900px;
+                              background-image: url(img9.png);
+                              float: initial;
+                                background-repeat: no-repeat;
+                                }
+
+                                .img10{ height: 889px;
+                                    width: 900px;
+                                  background-image: url(img10.png);
+                                  float: initial;
+                                background-repeat: no-repeat;
+                                    }
+                                    
+                                       .img12{ height: 889px;
+                                           width: 1000px;
+                                          background-image: url(img12.png);
+                                          float: unset;
+                                        background-repeat: no-repeat;
+                                            }
+                                            .img13{ height: 589px;
+                                                width: 10030px;
+                                               background-image: url(img13.jpg);
+                                               float: unset;
+                                             background-repeat: no-repeat;
+                                                 }
+                                                 .img14{ height: 799px;
+                                                    width: 10300px;
+                                                   background-image: url(img14.jpg);
+                                                   float: unset;
+                                                 background-repeat: no-repeat;
+                                                     }
+                                                     .img15{ height: 999px;
+                                                        width: 10400px;
+                                                       background-image: url(img15.png);
+                                                       float: unset;
+                                                     background-repeat: no-repeat;
+                                                         }
+                                                       
+                                                         .img16{ height: 409px;
+                                                            width: 1400px;
+                                                           background-image: url(img16.png);
+                                                           float: unset;
+                                                         background-repeat: no-repeat;
+                                                             }
+                                                             .img18{ height: 409px;
+                                                                width: 1400px;
+                                                               background-image: url(img18.jpeg);
+                                                               float: unset;
+                                                             background-repeat: no-repeat;
+                                                                 }
+
+                                                                 .img17{ height: 709px;
+                                                                    width: 1400px;
+                                                                   background-image: url(img17.jpeg);
+                                                                   float: unset;
+                                                                 background-repeat: no-repeat;
+                                                                     }
+                   
+.imgt3{ height: 1109px;
+  width: 4322px;
+ background-image: url(imgt3.jpg);
+ float: unset;
+background-repeat: no-repeat;
+   }
+
+   .imgi{ 
+    height: 13339px;
+    width: 4322px;
+   background-image: url("imgen1.jpg");
+   float: left;
+  background-repeat: no-repeat;
+     }
+
+     
+   .img2{ 
+    height: 2109px;
+    width: 43322px;
+   background-image: url("imagen2\ \(1\).jpg");
+   float:left;
+  background-repeat: no-repeat;
+     }
+     .gaby1{ 
+      height: 210px;
+      width: 432px;
+     background-image: url("gaby1.png");
+     float: inherit;
+    background-repeat: no-repeat;
+       }
+
+       .ju1{ 
+        height: 449px;
+        width: 2233px;
+       background-image: url("ju1.png");
+       float: unset;
+      background-repeat: no-repeat;
+         }
+    
+         .ju3{ 
+          height: 449px;
+          width: 2233px;
+         background-image: url("ju3.png");
+         float: unset;
+        background-repeat: no-repeat;
+           }
+
+               
+         .ju4{ 
+          height: 449px;
+          width: 2233px;
+         background-image: url("ju4.png");
+         float: unset;
+        background-repeat: no-repeat;
+           }
+
+                 
+         .jua{ 
+          height: 449px;
+          width: 2233px;
+         background-image: url("jua.png");
+         float: unset;
+        background-repeat: no-repeat;
+           }
+           .jua1{ 
+            height: 209px;
+            width: 2233px;
+           background-image: url("jua1.png");
+           float: unset;
+          background-repeat: no-repeat;
+             }
+             .jua2{ 
+              height: 200px;
+              width: 2233px;
+             background-image: url("jua2.png");
+             float: unset;
+            background-repeat: no-repeat;
+               }
+               .jua3{ 
+                height: 200px;
+                width: 2233px;
+               background-image: url("jua3.png");
+               float: unset;
+              background-repeat: no-repeat;
+                 }
+                 .jua4{ 
+                  height: 200px;
+                  width: 2233px;
+                 background-image: url("jua4.png");
+                 float: unset;
+                background-repeat: no-repeat;
+                   }
+                   .jua5{ 
+                    height: 200px;
+                    width: 2233px;
+                   background-image: url("jua5.png");
+                   float: unset;
+                  background-repeat: no-repeat;
+                     } 
+                          .jua6{ 
+                      height: 200px;
+                      width: 2233px;
+                     background-image: url("jua6.png");
+                     float: unset;
+                    background-repeat: no-repeat;
+                       }
+                       .jua7{ 
+                        height: 200px;
+                        width: 2233px;
+                       background-image: url("jua7.png");
+                       float: unset;
+                      background-repeat: no-repeat;
+                         }
+                         .jua8{ 
+                          height: 200px;
+                          width: 2233px;
+                         background-image: url("jua8.png");
+                         float: unset;
+                        background-repeat: no-repeat;
+                           }
+                           .jua9{ 
+                            height: 200px;
+                            width: 2233px;
+                           background-image: url("jua9.png");
+                           float: unset;
+                          background-repeat: no-repeat;
+                             }
+                             .jua10{ 
+                              height: 200px;
+                              width: 2233px;
+                             background-image: url("jua10.png");
+                             float: unset;
+                            background-repeat: no-repeat;
+                               }
+                               .jua11{ 
+                                height: 200px;
+                                width: 2233px;
+                               background-image: url("jua11.png");
+                               float: unset;
+                              background-repeat: no-repeat;
+                                 }
+                                 .ju12{ 
+                                  height: 500px;
+                                  width: 2233px;
+                                 background-image: url("ju12.png");
+                                 float: unset;
+                                background-repeat: no-repeat;
+                                   }
+                              
+                                   .jua13{ 
+                                    height: 200px;
+                                    width: 2233px;
+                                   background-image: url("jua13.png");
+                                   float: unset;
+                                  background-repeat: no-repeat;
+                                     }
+
+                                     .jua14{ 
+                                      height: 500px;
+                                      width: 2233px;
+                                     background-image: url("jua14.png");
+                                     float: unset;
+                                    background-repeat: no-repeat;
+                                       }
+
+                                       .jua15{ 
+                                        height: 500px;
+                                        width: 2233px;
+                                       background-image: url("jua15.png");
+                                       float: unset;
+                                      background-repeat: no-repeat;
+                                         }
+
+                                         .jua16{ 
+                                          height: 500px;
+                                          width: 2233px;
+                                         background-image: url("jua16.png");
+                                         float: unset;
+                                        background-repeat: no-repeat;
+                                           }
+                                           .jua17{ 
+                                            height: 500px;
+                                            width: 2233px;
+                                           background-image: url("jua17.png");
+                                           float: unset;
+                                          background-repeat: no-repeat;
+                                             }
+
+
+
+                                     .jua18{ 
+                                      height: 600px;
+                                      width: 2233px;
+                                     background-image: url("jua18.png");
+                                     float: unset;
+                                    background-repeat: no-repeat;
+                                       }
+                                       .jua19{ 
+                                        height: 200px;
+                                        width: 2233px;
+                                       background-image: url("jua19.png");
+                                       float: unset;
+                                      background-repeat: no-repeat;
+                                         }
+                                         .jua20{ 
+                                          height: 400px;
+                                          width: 2233px;
+                                         background-image: url("jua20.png");
+                                         float: unset;
+                                        background-repeat: no-repeat;
+                                           }
+                                           .jua21{ 
+                                            height: 400px;
+                                            width: 2233px;
+                                           background-image: url("jua21.png");
+                                           float: unset;
+                                          background-repeat: no-repeat;
+                                             }
+                                             .jua22{ 
+                                              height: 500px;
+                                              width: 2233px;
+                                             background-image: url("jua22.png");
+                                             float: unset;
+                                            background-repeat: no-repeat;
+                                             }
+                                             .jua23{ 
+                                              height: 700px;
+                                              width: 2233px;
+                                             background-image: url("jua23.png");
+                                             float: unset;
+                                            background-repeat: no-repeat;
+                                             }
+                                             .jua24{ 
+                                              height: 600px;
+                                              width: 2233px;
+                                             background-image: url("jua24.png");
+                                             float: unset;
+                                            background-repeat: no-repeat;
+                                             }
+                                             .jua25{ 
+                                              height: 600px;
+                                              width: 2233px;
+                                             background-image: url("jua25.png");
+                                             float: unset;
+                                            background-repeat: no-repeat;
+                                             }
+                                             .jua26{ 
+                                              height: 500px;
+                                              width: 2233px;
+                                             background-image: url("jua26.png");
+                                             float: unset;
+                                            background-repeat: no-repeat;
+                                             }
+                                             
+                                             .jua27{ 
+                                              height: 100px;
+                                              width: 2233px;
+                                             background-image: url("jua27.png");
+                                             float: unset;
+                                            background-repeat: no-repeat;
+                                             }
+
+                                             .jua28{ 
+                                              height: 700px;
+                                              width: 2233px;
+                                             background-image: url("jua28.png");
+                                             float: unset;
+                                            background-repeat: no-repeat;
+                                             }
+                                             .ju5{ 
+                                              height: 100px;
+                                              width: 2233px;
+                                             background-image: url("ju5.png");
+                                             float: unset;
+                                            background-repeat: no-repeat;
+                                             }
+                                             .jua29{ 
+                                              height: 100px;
+                                              width: 2233px;
+                                             background-image: url("jua29.png");
+                                             float: unset;
+                                            background-repeat: no-repeat;
+                                             }
+                                             .jua30{ 
+                                              height: 400px;
+                                              width: 2233px;
+                                             background-image: url("jua30.png");
+                                             float: unset;
+                                            background-repeat: no-repeat;
+                                             }
+                                             .jua31{ 
+                                              height: 600px;
+                                              width: 2233px;
+                                             background-image: url("jua31.png");
+                                             float: unset;
+                                            background-repeat: no-repeat;
+                                             }
+                                             .jua32{ 
+                                              height: 600px;
+                                              width: 2233px;
+                                             background-image: url("jua32.png");
+                                             float: unset;
+                                            background-repeat: no-repeat;
+                                             }
+                                             .jua33{ 
+                                              height: 100px;
+                                              width: 2233px;
+                                             background-image: url("jua33.png");
+                                             float: unset;
+                                            background-repeat: no-repeat;
+                                             }
+                                             .jua34{ 
+                                              height: 500px;
+                                              width: 2233px;
+                                             background-image: url("jua34.png");
+                                             float: unset;
+                                            background-repeat: no-repeat;
+                                             }
+                                            
+                                             .jua35{ 
+                                              height: 800px;
+                                              width: 2233px;
+                                             background-image: url("jua35.png");
+                                             float: unset;
+                                            background-repeat: no-repeat;
+                                             }
+                                             .jua40{ 
+                                              height: 200px;
+                                              width: 2233px;
+                                             background-image: url("jua40.jpg");
+                                             float: left;
+                                            background-repeat: no-repeat;
+                                             }
+
+                                             .jua50{ 
+                                              height: 600px;
+                                              width: 2233px;
+                                             background-image: url("jua50.jpg");
+                                             float: left;
+                                            background-repeat: no-repeat;
+                                             }
+
+                                             .jua60{ 
+                                              height: 400px;
+                                              width: 733px;
+                                             background-image: url("jua60.gif");
+                                             float: left;
+                                            background-repeat: no-repeat;
+                                             }
+                                             .En{ 
+                                              height: 400px;
+                                              width: 733px;
+                                             background-image: url("En.jpg");
+                                             float: unset;
+                                            background-repeat: no-repeat;
+                                             }
+                                             .en1{ 
+                                              height: 200px;
+                                              width: 733px;
+                                             background-image: url("en1.jpg");
+                                             float: unset;
+                                            background-repeat: no-repeat;
+                                             }
+                                             .en2{ 
+                                              height: 200px;
+                                              width: 733px;
+                                             background-image: url("en2.jpg");
+                                             float: unset;
+                                            background-repeat: no-repeat;
+                                             }
+                                             .jua70{ 
+                                              height: 9900px;
+                                              width: 7333px;
+                                             background-image: url("jua70.png");
+                                             float: unset;
+                                            background-repeat: no-repeat;
+                                             }
